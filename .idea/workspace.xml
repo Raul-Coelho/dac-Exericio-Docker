@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d972bb71-09b3-4129-b56b-3e51bb959057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1º/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="d972bb71-09b3-4129-b56b-3e51bb959057" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +76,6 @@
               <item name="dac-Exericio-Docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="dac-Exericio-Docker" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dac-Exericio-Docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dac-Exericio-Docker" type="462c0819:PsiDirectoryNode" />
-              <item name="1º" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -90,6 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -119,12 +113,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557492495702</updated>
       <workItem from="1557492503301" duration="1372000" />
-      <workItem from="1557493906598" duration="3594000" />
+      <workItem from="1557493906598" duration="4201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4966000" />
+    <option name="totallyTimeSpent" value="5573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
