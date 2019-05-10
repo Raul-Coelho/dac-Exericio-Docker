@@ -1,0 +1,8 @@
+package ifpb.edu.br;
+
+public class Main {
+    public static void main(String... args) {
+        System.out.println("oi, sou a classe Main");
+    }
+
+}
